@@ -1,5 +1,4 @@
-# Kaisei Wieczorek-Numao (s5507922) - Computing for Graphics and Animation 23/24
-# Particle-based fluid simulation
+# Fluid-dynamics in C++
 
 The video of my running program can be found via this link:
 https://youtu.be/Tj65WEV0ebY
