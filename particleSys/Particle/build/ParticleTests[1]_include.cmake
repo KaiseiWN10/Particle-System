@@ -1,0 +1,5 @@
+if(EXISTS "/Users/kaisei/ParticleSys/Particle/build/ParticleTests[1]_tests.cmake")
+  include("/Users/kaisei/ParticleSys/Particle/build/ParticleTests[1]_tests.cmake")
+else()
+  add_test(ParticleTests_NOT_BUILT ParticleTests_NOT_BUILT)
+endif()
